@@ -1,0 +1,70 @@
+/********************  Boaz formating start **********************/
+
+.position-relative {
+    position: relative;
+}
+
+
+/******************** Start Banner  **********************/
+
+.slider-area h4 {
+    font-size: 27px;
+    line-height: 1.7;
+}
+
+
+/******************** Banner end  **********************/
+
+
+/******************** Start About **********************/
+
+.about .main-title h2 {
+    font-size: 33px;
+    line-height: 1.4;
+}
+
+.heading-area .heading {
+    line-height: 1.4;
+}
+
+
+/******************** About end   **********************/
+
+
+/********************  Start Team **********************/
+
+#team {
+    display: none;
+}
+
+
+/********************  Team end  **********************/
+
+
+/******************** Start Counter  **********************/
+
+.parallax-box__p i {
+    font-size: 20px;
+    top: 0.7em;
+}
+
+
+/********************  Counter end  **********************/
+
+
+/********************  Start Review **********************/
+
+.testimonial {
+    display: none;
+}
+
+
+/********************  Review end  **********************/
+
+
+/********************  Media start **********************/
+
+@media screen and (max-width: 767px) {}
+
+
+/********************  Boaz formating end **********************/

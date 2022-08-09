@@ -25,6 +25,7 @@
     <!-- Style Sheet -->
     <link href="dark-creative/css/style.css" rel="stylesheet">
     <link href="dark-creative/css/custom.css" rel="stylesheet">
+    <link href="Boaz/css/style.css" rel="stylesheet">
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="50">

@@ -11,9 +11,9 @@
                         data-wow-delay="1.2s">Kérdésed van? </h4>
                     <h2 class="alt-font text-white my-3 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1.6s">
                         Hívj bizalommal</h2>
-                    <a href="#about"
-                        class="scroll btn btn-medium btn-rounded btn-yellow text-capitalize mt-3 mb-5 mb-md-0 wow fadeInUp"
-                        data-wow-duration="1.5s" data-wow-delay="2s">Learn More<span></span></a>
+                    <a href="tel:"
+                        class="btn btn-medium btn-rounded btn-yellow text-capitalize mt-3 mb-5 mb-md-0 wow fadeInUp"
+                        data-wow-duration="1.5s" data-wow-delay="2s">Hívjon most<span></span></a>
                 </div>
             </div>
         </div>
@@ -27,17 +27,24 @@
         <div class="row align-items-center">
             <div class="col-lg-6 pl-6">
                 <div class="main-title text-lg-left mb-0 wow fadeInUp" data-wow-delay="300ms">
-                    <h5 class="wow fadeInUp" data-wow-delay="300ms"> Lorem ipsum dolor sit amet consectetur </h5>
-                    <h2 class="wow fadeInUp" data-wow-delay="400ms"> New agency specialising in creative <span
-                            class="text-yellow js-rotating">design,startup</span></h2>
-                    <p class="pb-4 wow fadeInUp" data-wow-delay="500ms">Lorem ipsum dolor sit amet, consectetur
-                        adipiscing elit. Sed augue diam, accumsan vitae justo non, euismod aliquam lectus. Etiam
-                        elementum tortor quis risus posuere, in cursus arcu lobortis.</p>
+                    <h5 class="wow fadeInUp" data-wow-delay="300ms"> Munkatársaink szívesen nyújtanak Önnek szakmai
+                        segítséget.
+                    </h5>
+                    <h2 class="wow fadeInUp" data-wow-delay="400ms"> Üzleteinkben tartozékok és kiegészítők széles
+                        választékát kínáljuk azonnal, raktárról. <span class="text-yellow js-rotating">szilikon
+                            tok,üvegfólia, minden, amire, szükséged van :)</span></h2>
+                    <p class="pb-4 wow fadeInUp" data-wow-delay="500ms">Tartozékokban nagyon
+                        széles választékkal rendelkezünk, ami azt jelenti, hogy nem kell
+                        nélkülöznie mobiltelefonját ismeretlen ideig, azonnal hozzájuthat az adott tartozékhoz, legyen
+                        az
+                        akár
+                        régi
+                        típusú, de annál közkedveltebb telefon típus.</p>
 
                     <ul class="text-left wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1s">
-                        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                        <li>Morbi ornare nibh id cursus vestibulum.</li>
-                        <li>Duis vitae lectus facilisis, tristique lorem sit amet, malesuada diam.</li>
+                        <li>Több, mint 15 év tapasztalat</li>
+                        <li>Új és használt készülékek adás-vétel és csere</li>
+                        <li>Tartozékok és kiegészítők széles választéka azonnal, raktárról</li>
                     </ul>
                 </div>
             </div>
@@ -61,7 +68,9 @@
         <div class="row">
             <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 heading-area text-center wow zoomIn"
                 data-wow-duration="1s" data-wow-delay=".1s">
-                <h2 class="heading">Browse our amazing <span class="d-block">design services</span></h2>
+                <h2 class="heading">Jó ár <span class="d-block"></span>
+                    <span class="d-block">Prémium <br> minőség</span>
+                </h2>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -69,24 +78,24 @@
                 data-wow-delay="1s">
                 <div class="about-box mx-auto bg-blue">
                     <span class="d-inline-block"><i class="fa fa-pencil-alt"></i></span>
-                    <h5 class="main-font mt-25px mb-15px">branding design</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit augue diam, accumsan.</p>
+                    <h5 class="main-font mt-25px mb-15px">Minden ami mobil</h5>
+                    <p>új és használt készülékek adás-vétel és csere</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-5 mb-lg-0 col-12 wow fadeInUp about-media" data-wow-duration="1.5s"
                 data-wow-delay="1.5s">
                 <div class="about-box mx-auto bg-yellow">
                     <span class="d-inline-block"><i class="fa fa-cog"></i></span>
-                    <h5 class="main-font mt-25px mb-15px">SEO Marketing</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit augue diam, accumsan.</p>
+                    <h5 class="main-font mt-25px mb-15px">Mobiletelefon szerviz</h5>
+                    <p>márkafüggetlen telefon szerviz rövid határidő, korrekt árak</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-5 mb-lg-0 col-12 wow fadeInRight about-media" data-wow-duration="1.5s"
                 data-wow-delay="1s">
                 <div class="about-box mx-auto bg-pink">
                     <span class="pro-step d-inline-block"><i class="fa fa-code"></i></span>
-                    <h5 class="mt-25px mb-15px">web development</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit augue diam, accumsan.</p>
+                    <h5 class="mt-25px mb-15px">Kiegészítők</h5>
+                    <p>tokok, fóliák, headsetek nagy választékban</p>
                 </div>
             </div>
         </div>
@@ -204,8 +213,8 @@
         <div class="row text-center">
             <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 wow zoomIn heading-area"
                 data-wow-duration="1s" data-wow-delay=".1s">
-                <span class="sub-heading text-yellow">Lorem ipsum dolor sit amet,</span>
-                <h3 class="heading text-center padding-bottom-half">Awesome Digital Work</h3>
+                <span class="sub-heading text-yellow">Egy kis betekintés,</span>
+                <h3 class="heading text-center padding-bottom-half">a Hallo GSM termékeibe</h3>
             </div>
         </div>
 
@@ -216,121 +225,121 @@
                 <div id="js-grid-mosaic-flat" class="cbp cbp-l-grid-mosaic-flat">
 
                     <div class="cbp-item web-design graphic">
-                        <a href="dark-creative/img/portfolio-img-1.jpg" class="cbp-caption cbp-lightbox">
+                        <a href="Boaz/img/product/adidas.jpg" class="cbp-caption cbp-lightbox">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="dark-creative/img/portfolio-img-1.jpg" alt="port-1">
+                                <img src="Boaz/img/product/adidas.jpg" alt="port-1">
                             </div>
                             <div class="cbp-caption-activeWrap"></div>
                             <div class="cbp-l-caption-alignCenter center-block">
                                 <div class="cbp-l-caption-body">
                                     <div class="plus"></div>
-                                    <h5 class="text-white mb-1">View Large</h5>
-                                    <p class="text-white">See Our Amazing Work</p>
+                                    <h5 class="text-white mb-1">Prémium Tok</h5>
+                                    <p class="text-white">Nézd meg közelebbről!</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="cbp-item seo marketing">
-                        <a href="dark-creative/img/portfolio-img-2.jpg" class="cbp-caption cbp-lightbox">
+                        <a href="Boaz/img/product/bmw.jpg" class="cbp-caption cbp-lightbox">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="dark-creative/img/portfolio-img-2.jpg" alt="port-2">
+                                <img src="Boaz/img/product/bmw.jpg" alt="port-2">
                             </div>
                             <div class="cbp-caption-activeWrap"></div>
                             <div class="cbp-l-caption-alignCenter center-block">
                                 <div class="cbp-l-caption-body">
                                     <div class="plus"></div>
-                                    <h5 class="text-white mb-1">View Large</h5>
-                                    <p class="text-white">See Our Amazing Work</p>
+                                    <h5 class="text-white mb-1">Prémium Tok</h5>
+                                    <p class="text-white">Nézd meg közelebbről!</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="cbp-item seo marketing">
-                        <a href="dark-creative/img/portfolio-img-3.jpg" class="cbp-caption cbp-lightbox">
+                        <a href="Boaz/img/product/mobile-3d-glass.jpg" class="cbp-caption cbp-lightbox">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="dark-creative/img/portfolio-img-3.jpg" alt="port-4">
+                                <img src="Boaz/img/product/mobile-3d-glass.jpg" alt="port-4">
                             </div>
                             <div class="cbp-caption-activeWrap"></div>
                             <div class="cbp-l-caption-alignCenter center-block">
                                 <div class="cbp-l-caption-body">
                                     <div class="plus"></div>
-                                    <h5 class="text-white mb-1">View Large</h5>
-                                    <p class="text-white">See Our Amazing Work</p>
+                                    <h5 class="text-white mb-1">3D Üvegfólia</h5>
+                                    <p class="text-white">Nézd meg közelebbről!</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="cbp-item graphic seo marketing">
-                        <a href="dark-creative/img/portfolio-img-4.jpg" class="cbp-caption cbp-lightbox">
+                        <a href="Boaz/img/product/mobile-glass-4.jpg" class="cbp-caption cbp-lightbox">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="dark-creative/img/portfolio-img-4.jpg" alt="port-3">
+                                <img src="Boaz/img/product/mobile-glass-4.jpg" alt="port-3">
                             </div>
                             <div class="cbp-caption-activeWrap"></div>
                             <div class="cbp-l-caption-alignCenter center-block">
                                 <div class="cbp-l-caption-body">
                                     <div class="plus"></div>
-                                    <h5 class="text-white mb-1">View Large</h5>
-                                    <p class="text-white">See Our Amazing Work</p>
+                                    <h5 class="text-white mb-1">Hátlapi Üvegfólia</h5>
+                                    <p class="text-white">Nézd meg közelebbről!</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="cbp-item web-design graphic">
-                        <a href="dark-creative/img/portfolio-img-5.jpg" class="cbp-caption cbp-lightbox">
+                        <a href="Boaz/img/product/mobile-glass.jpg" class="cbp-caption cbp-lightbox">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="dark-creative/img/portfolio-img-5.jpg" alt="port-5">
+                                <img src="Boaz/img/product/mobile-glass.jpg" alt="port-5">
                             </div>
                             <div class="cbp-caption-activeWrap"></div>
                             <div class="cbp-l-caption-alignCenter center-block">
                                 <div class="cbp-l-caption-body">
                                     <div class="plus"></div>
-                                    <h5 class="text-white mb-1">View Large</h5>
-                                    <p class="text-white">See Our Amazing Work</p>
+                                    <h5 class="text-white mb-1">Üvegfólia</h5>
+                                    <p class="text-white">Nézd meg közelebbről!</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="cbp-item seo marketing graphic ">
-                        <a href="dark-creative/img/portfolio-img-6.jpg" class="cbp-caption cbp-lightbox">
+                        <a href="Boaz/img/product/silicon-case-4.jpg" class="cbp-caption cbp-lightbox">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="dark-creative/img/portfolio-img-6.jpg" alt="port-6">
+                                <img src="Boaz/img/product/silicon-case-4.jpg" alt="port-6">
                             </div>
                             <div class="cbp-caption-activeWrap"></div>
                             <div class="cbp-l-caption-alignCenter center-block">
                                 <div class="cbp-l-caption-body">
                                     <div class="plus"></div>
-                                    <h5 class="text-white mb-1">View Large</h5>
-                                    <p class="text-white">See Our Amazing Work</p>
+                                    <h5 class="text-white mb-1">Szilikon Tok</h5>
+                                    <p class="text-white">Nézd meg közelebbről!</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="cbp-item web-design seo">
-                        <a href="dark-creative/img/portfolio-img-7.jpg" class="cbp-caption cbp-lightbox">
+                        <a href="Boaz/img/product/silicon-case.jpg" class="cbp-caption cbp-lightbox">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="dark-creative/img/portfolio-img-7.jpg" alt="port-7">
+                                <img src="Boaz/img/product/silicon-case.jpg" alt="port-7">
                             </div>
                             <div class="cbp-caption-activeWrap"></div>
                             <div class="cbp-l-caption-alignCenter center-block">
                                 <div class="cbp-l-caption-body">
                                     <div class="plus"></div>
-                                    <h5 class="text-white mb-1">View Large</h5>
-                                    <p class="text-white">See Our Amazing Work</p>
+                                    <h5 class="text-white mb-1">Szilikon Tok</h5>
+                                    <p class="text-white">Nézd meg közelebbről!</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="cbp-item web-design graphic">
-                        <a href="dark-creative/img/portfolio-img-8.jpg" class="cbp-caption cbp-lightbox">
+                        <a href="Boaz/img/product/book_case.jpg" class="cbp-caption cbp-lightbox">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="dark-creative/img/portfolio-img-8.jpg" alt="port-8">
+                                <img src="Boaz/img/product/book_case.jpg" alt="port-8">
                             </div>
                             <div class="cbp-caption-activeWrap"></div>
                             <div class="cbp-l-caption-alignCenter center-block">
                                 <div class="cbp-l-caption-body">
                                     <div class="plus"></div>
-                                    <h5 class="text-white mb-1">View Large</h5>
-                                    <p class="text-white">See Our Amazing Work</p>
+                                    <h5 class="text-white mb-1">Könyv Tok</h5>
+                                    <p class="text-white">Nézd meg közelebbről!</p>
                                 </div>
                             </div>
                         </a>
@@ -348,10 +357,12 @@
         <div class="row align-items-center">
             <div class="col-12 col-md-6 wow slideInLeft" data-wow-duration="1s" data-wow-delay=".1s">
                 <div class="counter-content">
-                    <h3 class="my-3">Our many years of experience <span> in numbers</span></h3>
+                    <h3 class="my-3">Folyamatosan újítjuk <span> készletünket</span></h3>
                     <span class="underline"></span>
-                    <p class="alt-font">We show you our professional achievements in numbers, which show the acquired
-                        skills and trust of many clients.</p>
+                    <p class="alt-font"> Termékeinket különböző válságkezelő csomagok keretében is megvásárolhatod. <br>
+                        Még több termék, most még
+                        jobb
+                        áron! </p>
                 </div>
             </div>
             <div class="col-12 col-md-6 text-center wow slideInRight" data-wow-duration="1s" data-wow-delay=".1s">
@@ -360,24 +371,27 @@
                     <div class="col-12 col-md-4">
                         <div class="parallax-box">
                             <i class="lni lni-handshake"></i>
-                            <h2 class="count">4500</h2>
-                            <h5>Satisfied customers</h5>
+                            <p class="parallax-box__p"><i class="fas fa-plus position-relative"></i></p>
+                            <h2 class="count">50</h2>
+                            <h5>Elégedett vásárló naponta </h5>
                         </div>
                     </div>
                     <!-- Counter -->
                     <div class="col-12 col-md-4">
                         <div class="parallax-box">
                             <i class="lni lni-world"></i>
-                            <h2 class="count">9500</h2>
-                            <h5>Tasks Completed</h5>
+                            <p class="parallax-box__p"><i class="fas fa-plus position-relative"></i></p>
+                            <h2 class="count">30</h2>
+                            <h5>Beszerzési opció</h5>
                         </div>
                     </div>
                     <!-- Counter -->
                     <div class="col-12 col-md-4">
                         <div class="parallax-box">
                             <i class="lni lni-tab"></i>
-                            <h2 class="count">6000</h2>
-                            <h5>Carried out training</h5>
+                            <p class="parallax-box__p"><i class="fas fa-plus position-relative"></i></p>
+                            <h2 class="count">10000</h2>
+                            <h5>Termék</h5>
                         </div>
                     </div>
                 </div>
@@ -468,8 +482,8 @@
         <div class="row text-center">
             <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 wow zoomIn heading-area"
                 data-wow-duration="1s" data-wow-delay=".1s">
-                <span class="sub-heading text-yellow">Lorem ipsum dolor sit amet,</span>
-                <h3 class="heading text-center padding-bottom-half">Let’s Choose a Best Plan</h3>
+                <span class="sub-heading text-yellow">Költséghatékony,</span>
+                <h3 class="heading text-center padding-bottom-half">Hallo GSM csomagjaink </h3>
             </div>
         </div>
 
@@ -478,19 +492,17 @@
             <div class="col-12 col-lg-4 wow slideInLeft" data-wow-duration="1s" data-wow-delay=".3s">
                 <div class="price-item text-center">
                     <div class="price_header">
-                        <span class="price_header_text underline">Startup</span>
-                        <p class="price_header_content">Click edit button to change this text. Lorem dolor sit amet,
-                            consectetur adipiscing elit.</p>
+                        <span class="price_header_text underline">Small</span>
+                        <!-- <p class="price_header_content">Click edit button to change this text. Lorem dolor sit amet,
+                            consectetur adipiscing elit.</p> -->
                     </div>
-                    <p class="actual_price"><sup class="dollar">$</sup>19<span class="small_font">/Month</span></p>
+                    <p class="actual_price">5.000 <sup class="dollar">Ft</sup><span class="small_font"></span></p>
                     <ul class="price-list">
-                        <li>Full access</li>
-                        <li>Unlimited Bandwidth</li>
-                        <li>Email Accounts</li>
-                        <li>8 Free Forks Every Months</li>
+                        <li>Átlátszó szilikon</li>
+                        <li>Üvegfólia</li>
+                        <li>Díjmentes felrakás</li>
                     </ul>
-                    <a href="javascript:void(0);" class="scroll btn btn-medium btn-rounded btn-trans btn-margin">Learn
-                        More</a>
+                    <a href="#blog" class="scroll btn btn-medium btn-rounded btn-trans btn-margin">Bővebben</a>
                 </div>
             </div>
             <!-- Price-2 -->
@@ -498,18 +510,16 @@
                 <div class="price-item text-center price-margin">
                     <div class="price_header">
                         <span class="price_header_text underline">Standard</span>
-                        <p class="price_header_content">Click edit button to change this text. Lorem dolor sit amet,
-                            consectetur adipiscing elit.</p>
+                        <!-- <p class="price_header_content">Click edit button to change this text. Lorem dolor sit amet,
+                            consectetur adipiscing elit.</p> -->
                     </div>
-                    <p class="actual_price"><sup class="dollar">$</sup>56<span class="small_font">/Month</span></p>
+                    <p class="actual_price">7.000 <sup class="dollar">Ft</sup><span class="small_font"></span></p>
                     <ul class="price-list">
-                        <li>Full access</li>
-                        <li>Unlimited Bandwidth</li>
-                        <li>Email Accounts</li>
-                        <li>8 Free Forks Every Months</li>
+                        <li>Szilikon tok</li>
+                        <li>Üvegfólia</li>
+                        <li>USB kábel</li>
                     </ul>
-                    <a href="javascript:void(0);" class="scroll btn btn-medium btn-rounded btn-trans btn-margin">Learn
-                        More</a>
+                    <a href="#blog" class="scroll btn btn-medium btn-rounded btn-trans btn-margin">Bővebben</a>
                 </div>
             </div>
             <!-- Price-3 -->
@@ -517,18 +527,16 @@
                 <div class="price-item text-center">
                     <div class="price_header">
                         <span class="price_header_text underline">Premium</span>
-                        <p class="price_header_content">Click edit button to change this text. Lorem dolor sit amet,
-                            consectetur adipiscing elit.</p>
+                        <!-- <p class="price_header_content">Click edit button to change this text. Lorem dolor sit amet,
+                            consectetur adipiscing elit.</p> -->
                     </div>
-                    <p class="actual_price"><sup class="dollar">$</sup>89<span class="small_font">/Month</span></p>
+                    <p class="actual_price">13.000 <sup class="dollar">Ft</sup><span class="small_font"></span></p>
                     <ul class="price-list">
-                        <li>Full access</li>
-                        <li>Unlimited Bandwidth</li>
-                        <li>Email Accounts</li>
-                        <li>8 Free Forks Every Months</li>
+                        <li>Választható tok</li>
+                        <li>5D Üvegfólia</li>
+                        <li>Prémium kábel</li>
                     </ul>
-                    <a href="javascript:void(0);" class="scroll btn btn-medium btn-rounded btn-trans btn-margin">Learn
-                        More</a>
+                    <a href="#blog" class="scroll btn btn-medium btn-rounded btn-trans btn-margin">Bővebben</a>
                 </div>
             </div>
         </div>
@@ -550,8 +558,8 @@
                 <a class="btn btn-medium btn-rounded btn-yellow" href="dark-creative/standalone.html">Learn More</a>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                <div class="hover-effect image blog-img ml-auto"><img src="dark-creative/img/blog-img-1.jpg"
-                        alt="image"></div>
+                <div class="hover-effect image blog-img ml-auto"><img src="Boaz/img/shop/IMG_1872.jpg" alt="image">
+                </div>
             </div>
         </div>
 

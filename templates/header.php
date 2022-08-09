@@ -115,3 +115,20 @@
     <a id="close_side_menu" href="javascript:void(0);"></a>
 </header>
 <!-- End Header -->
+<!-- Start Fix Nav -->
+<div class="fixed-nav-on-scroll fixed-nav-appear d-none sidemenu_toggle">
+    <div class="row no-gutters">
+        <div class="col-12 d-flex justify-content-center align-items-center position-relative">
+            <div class="fixed-icon-scroll">
+                <a class="menu_bars menu-bars-setting mr-3 mr-lg-0">
+                    <div class="menu-lines">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Fix Nav -->
