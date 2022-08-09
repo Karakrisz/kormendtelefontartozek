@@ -31,15 +31,19 @@
                 </div>
                 <div class="col-sm-12 col-md-4 col-lg-4 d-flex justify-content-center">
                     <div class="logo-center">
-                        <a href="index-dark-creative.html">
-                            <img src="dark-creative/img/logo.png" alt="LOGO IMAGE"></a>
+                        <a href="/">
+                            <!-- <img src="dark-creative/img/logo.png" alt="LOGO IMAGE"> -->
+                            <h5>Hallo <br>
+                                <span>GSM</span>
+                            </h5>
+                        </a>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-4 col-lg-4 text-right">
                     <div class="banner-icons mt-2 mr-2">
                         <a href="#"><i class="lab la-facebook-f"></i></a>
-                        <a href="#"><i class="lab la-twitter"></i></a>
-                        <a href="#"><i class="lab la-linkedin-in"></i></a>
+                        <!-- <a href="#"><i class="lab la-twitter"></i></a>
+                        <a href="#"><i class="lab la-linkedin-in"></i></a> -->
                         <a href="#"><i class="lab la-instagram"></i></a>
                     </div>
                 </div>
@@ -50,13 +54,13 @@
         <div class="container">
             <div class="collapse navbar-collapse" id="megaone">
                 <div class="navbar-nav  ml-auto mr-auto">
-                    <a class="nav-link scroll line" href="#home">Home</a>
-                    <a class="nav-link scroll line" href="#about">About</a>
-                    <a class="nav-link scroll line" href="#team">Team</a>
-                    <a class="nav-link scroll line" href="#work">Work</a>
-                    <a class="nav-link scroll line" href="#pricing">Pricing</a>
-                    <a class="nav-link scroll line" href="#blog">Blog</a>
-                    <a class="nav-link scroll line" href="#contact">Contact</a>
+                    <a class="nav-link scroll line" href="#home">Kezdőlap</a>
+                    <a class="nav-link scroll line" href="#about">Rólunk</a>
+                    <!-- <a class="nav-link scroll line" href="#team">Team</a> -->
+                    <a class="nav-link scroll line" href="#work">Termékeink</a>
+                    <a class="nav-link scroll line" href="#pricing">Válságkezelés</a>
+                    <a class="nav-link scroll line" href="#blog">Üzleteink</a>
+                    <a class="nav-link scroll line" href="#contact-next">Kapcsolat</a>
                 </div>
             </div>
         </div>
@@ -74,25 +78,25 @@
             <nav class="side-nav w-100">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#home">Home</a>
+                        <a class="nav-link scroll" href="#home">Kezdőlap</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#about">About</a>
+                        <a class="nav-link scroll" href="#about">Rólunk</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link scroll" href="#team">Team</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a class="nav-link scroll" href="#work">Termékeink</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#work">Work</a>
+                        <a class="nav-link scroll" href="#pricing">Válságkezelés </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#pricing">Pricing</a>
+                        <a class="nav-link scroll" href="#blog">Üzleteink</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#blog">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link scroll" href="#contact">Contact</a>
+                        <a class="nav-link scroll" href="#contact-next">Kapcsolat</a>
                     </li>
                 </ul>
             </nav>
@@ -101,14 +105,18 @@
                 <ul class="social-icons-simple">
                     <li><a class="facebook-text-hvr" href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
                     </li>
-                    <li><a class="twitter-text-hvr" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                    <!-- <li><a class="twitter-text-hvr" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
                     <li><a class="linkedin-text-hvr" href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
-                    </li>
+                    </li> -->
                     <li><a class="instagram-text-hvr" href="javascript:void(0)"><i class="fab fa-instagram"></i></a>
                     </li>
                 </ul>
-                <p class="text-white">&copy; 2020 MegaOne. Made With Love by <span class="d-inline d-lg-block">
-                        ThemesIndustry</span></p>
+                <p> <span class="yousite-copyright"> <a href="https://www.yousite.hu/" target="_blank">Készítette</a> :
+                        <a href="https://www.yousite.hu/" class="page__link" target="_blank">YouSite</a></span>
+                </p>
+                <p class="company-about fadeIn">© 2021 MegaOne. Made With Love By <a class="link--hover"
+                        href="javascript:void(0);">Themesindustry</a>
+                </p>
             </div>
         </div>
     </div>

@@ -9,10 +9,14 @@
     <!-- Description -->
     <meta name="description"
         content="MegaOne is a highly creative, modern, visually stunning and Bootstrap responsive multipurpose studio and portfolio HTML5 template with ready home page demos.">
+    <!-- Google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
     <!-- Page Title -->
     <title><?php echo 'Hallo GSM- ' . $title;  ?></title>
     <!-- Favicon -->
-    <link href="vendor/img/favicon.ico" rel="icon">
+    <link href="Boaz/img/favicon.ico" rel="icon">
     <!-- Bundle -->
     <link rel="stylesheet" href="vendor/css/bundle.min.css">
     <!-- Plugin Css -->

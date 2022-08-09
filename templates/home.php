@@ -1,6 +1,7 @@
 <!-- Start Banner -->
 <section class="p-0 banner" id="home-banner">
-    <div class="slider-area" id="slider-area">
+    <div class="slider-area position-relative" id="slider-area">
+        <img class="slider-area__img position-absolute" src="Boaz/img/slide.jpg" alt="image">
         <div class="bg-overlay bg-black opacity-4"></div>
         <div class="container">
             <div class="row align-items-center">
@@ -50,7 +51,7 @@
             </div>
             <div class="col-lg-6 pl-lg-5 mb-5 mb-lg-0 wow fadeInRight" data-wow-duration="1.5s" data-wow-delay="1s">
                 <figure class="about-image">
-                    <img src="dark-creative/img/about-img.jpg" alt="sample28" />
+                    <img src="Boaz/img/about.jpg" alt="sample28" />
                     <div>
                         <div class="curl"></div>
                     </div>
@@ -551,11 +552,12 @@
         <div class="row no-gutters align-items-center padding-bottom-half wow fadeInUp" data-wow-duration="1.5s"
             data-wow-delay=".5s">
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                <h2>Designing your time.</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodt temp to the incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis a nostr a exercitation ullamco laboris
-                    nisi ut aliquip.</p>
-                <a class="btn btn-medium btn-rounded btn-yellow" href="dark-creative/standalone.html">Learn More</a>
+                <h2>9900 Körmend Rákóczi út 17</h2>
+                <p> Üzletünket Körmenden, a
+                    belvárosban találod. <br> Cím: 8900 Zalaegerszeg Sport utca 1 <br>
+                    Nyitva tartás: <br> Hétfő-Szombat: 9:00-20:00 <br> Vasárnap: 9:00-19:00 </p>
+                <a class="btn btn-medium btn-rounded btn-yellow" href="tel:+36309222172">Hívás most</a>
+                <!-- dark-creative/standalone.html -->
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="hover-effect image blog-img ml-auto"><img src="Boaz/img/shop/IMG_1872.jpg" alt="image">
@@ -566,15 +568,16 @@
         <!-- Second Row -->
         <div class="row no-gutters align-items-center wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1s">
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 order-2 order-lg-1">
-                <div class="hover-effect image blog-img mr-auto"><img src="dark-creative/img/blog-img-2.jpg"
-                        alt="image"></div>
+                <div class="hover-effect image blog-img mr-auto"><img src="Boaz/img/shop/IMG_3673.jpg" alt="image">
+                </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 right-text text-right order-1 order-lg-2">
-                <h2>Branding is an art.</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodt temp to the incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis a nostr a exercitation ullamco laboris
-                    nisi ut aliquip.</p>
-                <a class="btn btn-medium btn-rounded btn-yellow" href="dark-creative/standalone.html">Learn More</a>
+                <h2>9900 Körmend sport út 5 (Tesco)</h2>
+                <p> Üzletünket Körmenden, a
+                    Tesco plexi üzletsorán találod. <br> Cím: Tesco 9900 Körmend sport út 5 <br>
+                    Nyitva tartás: <br> Hétfő-Szombat: 9:00-20:00 <br> Vasárnap: 9:00-19:00 </p>
+                <a class="btn btn-medium btn-rounded btn-yellow" href="tel:+36706236080">Hívás most</a>
+                <!-- dark-creative/standalone.html -->
             </div>
         </div>
     </div>
@@ -582,34 +585,53 @@
 <!-- End Blog -->
 
 <!-- Start Google Map -->
-<section class="bg-black contact">
+<section id="contact-next" class="bg-black contact">
     <div class="container">
         <div class="row mx-lg-0 align-items-center">
             <div class="col-lg-6 col-md-6 col-sm-12 p-0">
                 <div class="contact-box">
                     <div class="heading-area text-center text-md-left mb-4">
-                        <span class="sub-heading">Lorem ipsum dolor sit amet,</span>
-                        <h3 class="heading text-yellow">MegaOne Digital</h3>
+                        <span class="sub-heading">Kérdése van ?</span>
+                        <h3 class="heading text-yellow">Lépjen velünk kapcsolatba</h3>
                     </div>
 
                     <div class="contact-info text-center text-md-left">
                         <!--Address-->
-                        <p class="mb-3">123 Street New York City , United States Of America. </p>
+                        <p class="mb-3">9900 Körmend sport út 5 (Tesco) </p>
+                        <!--Address 2-->
+                        <p class="mb-3">9900 Körmend Rákóczi út 17 </p>
                         <!--Phone-->
-                        <p class="mb-3"> Office Telephone : 001 01085379709<br>
-                            Mobile : 001 63165370895 </p>
+                        <p class="mb-3"> Telefonszám : <a class="page__link" href="tel:+36706236080">06 70 623
+                                6080</a><br>
+                            Vagy : <a class="page__link" href="tel:+36309222172">06 30 922 2172</a> </p>
                         <!--Email-->
-                        <p class="mb-3"> Email: <a href="mailto:email@website.com">admin@website.com</a> <br>
-                            Inquiries: <a href="mailto:email@website.com">email@website.com</a> </p>
-                        <!--Timing-->
-                        <p class="mb-0">Mon-Sat: 9am to 6pm</p>
+                        <p class="mb-3"> Email: <a class="contact__link"
+                                href="mailto:fergsmkft@gmail.com">fergsmkft@gmail.com</a> <br>
+                            <!--Timing-->
+                            <!-- <p class="mb-0">Mon-Sat: 9am to 6pm</p> -->
                     </div>
                 </div>
             </div>
             <!--Google Map-->
             <div class="col-lg-6 col-md-6 col-sm-12 p-0 col-map box-shadow-map">
+                <div class="map-btn-box">
+                    <button id="tesco-btn" class="btn btn-medium btn-rounded btn-yellow map-btn-box__btn--focus">Körmend
+                        Tesco</button>
+                    <button id="rakoczi-btn" class="btn btn-medium btn-rounded btn-yellow">Körmend Rákóczi</button>
+                </div>
                 <div class="mapouter">
-                    <div id="map" class="map bg-img-map"></div>
+                    <div id="map-tesco">
+                        <iframe class="position-relative animate time fadeInRight"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2720.1954115191106!2d16.61269551565921!3d47.01676917914998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476ed1e67a362fe5%3A0xd00dc37af7722f9b!2sK%C3%B6rmend%2C%20Sport%20u.%205%2C%209900!5e0!3m2!1shu!2shu!4v1660064920507!5m2!1shu!2shu"
+                            style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                    <div id="map-rakoczi-ut">
+                        <iframe class="position-relative animate time fadeInRight"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2720.5385383915846!2d16.599302915658996!3d47.01003317914963!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476ed1c22183dcc9%3A0xf21444ad19ac5dcc!2zS8O2cm1lbmQsIFLDoWvDs2N6aSB1LiAxNywgOTkwMA!5e0!3m2!1shu!2shu!4v1660064966400!5m2!1shu!2shu"
+                            style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
                 </div>
             </div>
         </div>

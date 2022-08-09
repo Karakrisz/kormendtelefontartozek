@@ -1,15 +1,35 @@
-$(document).ready(run);
+const tescoBtn = document.getElementById("tesco-btn")
 
-function run() {
-    var SCROLL_TIME = 1000;
+const rakocziBtn = document.getElementById("rakoczi-btn")
 
-    $(".scroll").click(menuClick);
+const tescoMap = document.getElementById("map-tesco")
 
-    function menuClick(event) {
-        event.preventDefault();
-        var id = $(this).attr("href");
-        $("html, body").animate({
-            "scrollTop": $(id).offset().top 
-        }, SCROLL_TIME);
-    }
-}
+const rakocziMap = document.getElementById("map-rakoczi-ut")
+
+rakocziMap.classList.add("map--inactive")
+
+tescoBtn.addEventListener('click', () => {
+
+    setTimeout(() => {
+
+        rakocziBtn.classList.remove("map-btn-box__btn--focus")
+        tescoBtn.classList.add("map-btn-box__btn--focus")
+        rakocziMap.classList.add("map--inactive")
+        tescoMap.classList.remove("map--inactive")
+
+    }, 150)
+
+})
+
+rakocziBtn.addEventListener('click', () => {
+
+    setTimeout(() => {
+
+        tescoBtn.classList.remove("map-btn-box__btn--focus")
+        rakocziBtn.classList.add("map-btn-box__btn--focus")
+        tescoMap.classList.add("map--inactive")
+        rakocziMap.classList.remove("map--inactive")
+
+    }, 150)
+
+})
